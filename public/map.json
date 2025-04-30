@@ -189,48 +189,37 @@
                  "y":48
                 }, 
                 {
-                 "height":16,
-                 "id":12,
-                 "name":"Sofa",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":128,
-                 "y":96
-                }, 
-                {
-                 "height":16,
+                 "height":23,
                  "id":17,
                  "name":"TV",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":128,
-                 "y":144
+                 "width":13.5,
+                 "x":129.25,
+                 "y":135.875
                 }, 
                 {
-                 "height":16,
+                 "height":11,
                  "id":18,
                  "name":"Resume",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":80,
-                 "y":64
+                 "width":11,
+                 "x":97.5,
+                 "y":63.75
                 }, 
                 {
-                 "height":16,
+                 "height":9.25,
                  "id":22,
                  "name":"Projects",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":96,
-                 "y":64
+                 "width":7.75,
+                 "x":85.5,
+                 "y":63.5
                 }, 
                 {
                  "height":16,
@@ -255,92 +244,81 @@
                  "y":48
                 }, 
                 {
-                 "height":32,
+                 "height":23.5,
                  "id":27,
                  "name":"Library",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":144,
-                 "y":48
+                 "width":11.875,
+                 "x":145.875,
+                 "y":50.375
                 }, 
                 {
-                 "height":32,
+                 "height":26.875,
                  "id":28,
                  "name":"Fridge",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":176,
-                 "y":48
+                 "width":11.75,
+                 "x":178.25,
+                 "y":50.625
                 }, 
                 {
-                 "height":16,
+                 "height":11.25,
                  "id":30,
                  "name":"Chest",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":160,
-                 "y":64
+                 "width":13.875,
+                 "x":161.125,
+                 "y":67.625
                 }, 
                 {
-                 "height":16,
+                 "height":16.625,
                  "id":32,
                  "name":"Bed",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":256,
+                 "width":13.875,
+                 "x":257.125,
                  "y":64
                 }, 
                 {
-                 "height":16,
+                 "height":5.75,
                  "id":33,
                  "name":"Key",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":112
+                 "width":11.125,
+                 "x":226.625,
+                 "y":118.25
                 }, 
                 {
-                 "height":16,
-                 "id":34,
-                 "name":"Ghost",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":112
-                }, 
-                {
-                 "height":16,
+                 "height":9.125,
                  "id":42,
                  "name":"BeanBag",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":224,
-                 "y":144
+                 "width":13.75,
+                 "x":224.875,
+                 "y":148.625
                 }, 
                 {
-                 "height":16,
+                 "height":14.625,
                  "id":43,
                  "name":"Grave",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":256,
-                 "y":144
+                 "width":10,
+                 "x":259.125,
+                 "y":145.375
                 }, 
                 {
                  "height":16,
@@ -354,83 +332,82 @@
                  "y":144
                 }, 
                 {
-                 "height":16,
+                 "height":22.375,
                  "id":45,
                  "name":"PC",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":304,
-                 "y":112
+                 "width":14,
+                 "x":304.875,
+                 "y":104.625
                 }, 
                 {
-                 "height":16,
+                 "height":15.125,
                  "id":46,
                  "name":"Plant",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":176,
+                 "width":10,
+                 "x":179.125,
                  "y":144
                 }, 
                 {
-                 "height":16,
+                 "height":15.125,
                  "id":47,
                  "name":"Plant",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":80,
+                 "width":10.125,
+                 "x":82.75,
                  "y":144
                 }, 
                 {
-                 "height":16,
+                 "height":15.125,
                  "id":48,
                  "name":"Plant",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":304,
+                 "width":7.875,
+                 "x":308.25,
                  "y":64
                 }, 
                 {
-                 "height":16,
+                 "height":15,
                  "id":49,
                  "name":"Plant",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":208,
+                 "width":8.75,
+                 "x":211.625,
                  "y":64
                 }, 
                 {
-                 "height":16,
+                 "height":13.75,
                  "id":54,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":240,
-                 "y":64
+                 "width":13.875,
+                 "x":240.875,
+                 "y":65.375
                 }, 
                 {
-                 "height":16,
+                 "height":14.375,
                  "id":55,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":272,
-                 "y":64
-                },
-            
+                 "width":14.125,
+                 "x":272.875,
+                 "y":64.875
+                }, 
                 {
                  "height":16,
                  "id":56,
@@ -438,8 +415,8 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":32,
-                 "x":224,
+                 "width":47.875,
+                 "x":208.125,
                  "y":48
                 }, 
                 {
@@ -449,10 +426,11 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":48,
+                 "width":63.75,
                  "x":256,
                  "y":48
-                }, 
+                },
+            
                 {
                  "height":16,
                  "id":59,
@@ -460,20 +438,53 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
+                 "width":64.125,
                  "x":128,
                  "y":48
                 }, 
                 {
-                 "height":16,
-                 "id":60,
+                 "height":13.375,
+                 "id":61,
+                 "name":"Sofa",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":12.625,
+                 "x":129.625,
+                 "y":98
+                }, 
+                {
+                 "height":13.625,
+                 "id":62,
+                 "name":"Ghost",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":9.625,
+                 "x":275.125,
+                 "y":113.625
+                }, 
+                {
+                 "height":15.5,
+                 "id":63,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":16,
-                 "x":128,
-                 "y":112
+                 "width":31.5,
+                 "x":80.375,
+                 "y":48.125
+                }, 
+                {
+                 "height":8.25,
+                 "id":66,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":13.25,
+                 "x":129.125,
+                 "y":114.375
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -505,7 +516,7 @@
          "y":0
         }],
  "nextlayerid":6,
- "nextobjectid":61,
+ "nextobjectid":68,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
